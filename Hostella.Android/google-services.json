@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "376372280888",
+    "firebase_url": "https://testapp-f1a78.firebaseio.com",
+    "project_id": "testapp-f1a78",
+    "storage_bucket": "testapp-f1a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376372280888:android:93c20360a3365bec5370cd",
+        "android_client_info": {
+          "package_name": "com.programmerssquad.hostella"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376372280888-ok8dht0n4qtcujaro7o5ahcfesa58a81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcoQWm_sK-HzSyz6mC32l4mDcled6dwTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376372280888-ok8dht0n4qtcujaro7o5ahcfesa58a81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
